@@ -12,9 +12,6 @@
                 <active>1</active>
                 <title>BkashPayment</title>
                 <order_status>pending_payment</order_status>
-                <instructions>Instruction.</instructions>
-                <payment_action>true</payment_action>
-                <model>Brosishost\Bkash\Model\BkashPayment</model>
                 <group>offline</group>
             </bkashpayment>
             <!-- payment-config -->
