@@ -16,11 +16,6 @@ define(
                 template: 'Brosishost_Bkash/payment/bkashpayment'
             },
 
-            /** Returns send check to info */
-            getMailingAddress: function() {
-                return window.checkoutConfig.payment.checkmo.mailingAddress;
-            },
-
            
         });
     }
