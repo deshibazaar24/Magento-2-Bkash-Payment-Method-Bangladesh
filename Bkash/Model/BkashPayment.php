@@ -6,20 +6,6 @@
 namespace Brosishost\Bkash\Model;
 
 
-
-/**
- * Pay In Store payment method model
- */
-class BkashPayment extends \Magento\Payment\Model\Method\AbstractMethod
-{
-
-    /**
-     * Payment code
-     *
-     * @var string
-     */
-    protected $_code = 'bkashpayment';
-
     /**
      * Availability option
      *
